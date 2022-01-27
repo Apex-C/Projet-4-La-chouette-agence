@@ -802,6 +802,7 @@ h4 {
 .black-background {
   background-color: rgba(80 77 69 / 70%);
   padding: 40px 40px 40px 40px;
+  border-radius: 25px;
 }
 .bold-link {
   font-weight: 900;
@@ -816,8 +817,13 @@ h4 {
 .bgc-atomic-tangerine {
   background-color: #f3976c;
 }
+.black {
+  color: #000 !important;
+  font-weight: 700;
+}
 .tc-white {
   color: #16110f;
+  font-weight: 700;
 }
 .btn-atomic-tangerine {
   background: #f3976c;
