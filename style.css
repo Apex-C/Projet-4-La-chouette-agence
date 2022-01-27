@@ -246,6 +246,8 @@ a:hover {
 }
 #bloc-1-hero h1 {
   font-size: 32px;
+  font-weight: 600;
+  color: #f3976c;
 }
 .navbar {
   margin-bottom: 0;
