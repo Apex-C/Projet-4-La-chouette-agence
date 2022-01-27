@@ -7,7 +7,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.txt-style {
+  font-size: 27px;
+  color: #e1f766;
+  text-align: center;
+}
 a,
 button {
   transition: all 0.3s ease-in-out;
