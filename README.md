@@ -8,10 +8,10 @@
 ### Compétences évaluées
 
 > Optimiser la taille et la vitesse d’un site web
-Assurer l'accessibilité d'un site web
-Optimiser le référencement d'un site web
-Réaliser une recherche des bonnes pratiques en développement web
-Écrire un code HTML et CSS maintenable
+> Assurer l'accessibilité d'un site web
+> Optimiser le référencement d'un site web
+> Réaliser une recherche des bonnes pratiques en développement web
+> Écrire un code HTML et CSS maintenable
 
 ### technologie utilisé
 - [HTML5](https://www.w3.org/2014/10/html5-rec.html.fr/)
